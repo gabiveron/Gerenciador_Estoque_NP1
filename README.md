@@ -157,8 +157,12 @@ Abaixo estão as capturas de tela comprovando a interface funcional e a persist�
 
 ### Telas de Listagem / CRUD Read
 <img width="984" height="448" alt="image" src="https://github.com/user-attachments/assets/27c06493-db2d-463f-9224-89c297bb53d9" /> 
-### Telas de Edição / CRUD Update
 
+### Telas de Edição / CRUD Update
+<img width="799" height="382" alt="image" src="https://github.com/user-attachments/assets/fb48d888-384f-420d-b5a6-66bf222dc130" />
+
+### Telas de Excluir / CRUD Delete
+<img width="496" height="481" alt="image" src="https://github.com/user-attachments/assets/d916a6a4-1d70-422b-a680-c560e2bd3d89" />
 
 
 
