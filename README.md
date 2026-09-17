@@ -147,7 +147,6 @@ Abaixo estão as capturas de tela comprovando a interface funcional e a persist�
 
 ### Tela Inicial da Interface
 <img width="1350" height="639" alt="image" src="https://github.com/user-attachments/assets/7a667ab3-a79e-46d5-af0b-ccebe1b3eb9c" />
-)
 
 ### Telas dos Módulos
 <img width="835" height="407" alt="image" src="https://github.com/user-attachments/assets/223d5bcf-b524-4002-be14-319a51591afd" />
