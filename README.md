@@ -163,6 +163,8 @@ Abaixo estão as capturas de tela comprovando a interface funcional e a persist�
 ### Telas de Excluir / CRUD Delete
 <img width="496" height="481" alt="image" src="https://github.com/user-attachments/assets/d916a6a4-1d70-422b-a680-c560e2bd3d89" />
 
+### Persistência de Dados no Banco
+<img width="612" height="449" alt="image" src="https://github.com/user-attachments/assets/b40ba095-c131-435a-ba9f-ac6eedaac896" />
 
 
 
