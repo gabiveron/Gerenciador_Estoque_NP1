@@ -115,7 +115,7 @@ CREATE TABLE Movimentacao(
 #### 1. Clonagem e Banco de Dados
 1. Clone o repositório em sua máquina local:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/gabiveron/Gerenciador_Estoque_NP1.git
    ```
 2. Abra o **SQL Server Management Studio (SSMS)** (ou equivalente).
 3. Execute os scripts DDL da seção 3 para criar o banco de dados `Gerenciador_Estoque` e suas respectivas tabelas.
